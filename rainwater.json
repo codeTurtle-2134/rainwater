@@ -1,9 +1,9 @@
 {
-    "name": "ClearVision Rain",
-    "description": "ClearVision colors and background on the Rain layout (Rain by LampDelivery)",
+    "name": "rainwater",
+    "description": "An edited version of the rain theme for (Rain by LampDelivery)",
     "authors": [
         {
-            "name": "YourName"
+            "name": "Quentin"
         },
         {
             "name": "LampDelivery",
