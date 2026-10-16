@@ -39,55 +39,55 @@
                 "#808080"
             ],
             "BACKGROUND_PRIMARY": [
-                "#111111"
+                "#00000066"
             ],
             "BACKGROUND_SECONDARY": [
-                "#111111"
+                "#00000066"
             ],
             "BACKGROUND_SECONDARY_ALT": [
-                "#212121"
+                "#00000033"
             ],
             "BACKGROUND_SURFACE_HIGH": [
-                "#141414"
+                "#00000099"
             ],
             "CARD_BACKGROUND_DEFAULT": [
-                "#1e1e1e"
+                "#00000033"
             ],
             "BACKGROUND_TERTIARY": [
-                "#1e1e1e"
+                "#00000033"
             ],
             "BACKGROUND_ACCENT": [
                 "#2780e6"
             ],
             "BACKGROUND_FLOATING": [
-                "#111111"
+                "#00000099"
             ],
             "BACKGROUND_MOBILE_PRIMARY": [
                 "#00000066"
             ],
             "BACKGROUND_MOBILE_SECONDARY": [
-                "#141414"
+                "#00000066"
             ],
             "BACKGROUND_NESTED_FLOATING": [
-                "#111111"
+                "#00000099"
             ],
             "BACKGROUND_MESSAGE_HOVER": [
-                "#212121"
+                "#ffffff0d"
             ],
             "BACKGROUND_MODIFIER_HOVER": [
-                "#212121"
+                "#ffffff0d"
             ],
             "BACKGROUND_MODIFIER_ACTIVE": [
-                "#212121"
+                "#ffffff1a"
             ],
             "BACKGROUND_MODIFIER_SELECTED": [
                 "#2780e6"
             ],
             "BACKGROUND_MODIFIER_ACCENT": [
-                "#141414"
+                "#00000033"
             ],
             "SCROLLBAR_THIN_THUMB": [
-                "#212121"
+                "#ffffff1a"
             ],
             "SCROLLBAR_THIN_TRACK": [
                 "transparent"
@@ -99,7 +99,7 @@
                 "#2780e6"
             ],
             "CHANNELTEXTAREA_BACKGROUND": [
-                "#212121"
+                "#ffffff0d"
             ],
             "CHANNELS_DEFAULT": [
                 "#2780e6"
@@ -114,10 +114,10 @@
                 "#111111"
             ],
             "BG_BACKDROP": [
-                "#000000B2"
+                "#00000066"
             ],
             "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-                "#191919"
+                "#ffffff0d"
             ],
             "CHANNEL_ICON": [
                 "#aeaeb4"
@@ -126,7 +126,7 @@
                 "#00000066"
             ],
             "CARD_PRIMARY_BG": [
-                "#212121"
+                "#00000033"
             ]
         },
         "raw": {
@@ -136,12 +136,12 @@
             "PRIMARY_300": "#2780e6",
             "PRIMARY_360": "#2780e6",
             "PRIMARY_400": "#2780e6",
-            "PRIMARY_600": "#141414",
-            "PRIMARY_630": "#141414",
-            "PRIMARY_660": "#141414",
-            "PRIMARY_700": "#141414",
-            "PRIMARY_800": "#141414",
-            "BLACK_500": "#000000B2",
+            "PRIMARY_600": "#00000066",
+            "PRIMARY_630": "#00000066",
+            "PRIMARY_660": "#00000066",
+            "PRIMARY_700": "#00000066",
+            "PRIMARY_800": "#00000066",
+            "BLACK_500": "#00000066",
             "BRAND_260": "#2780e6",
             "BRAND_360": "#2780e6",
             "BRAND_500": "#2780e6",
@@ -151,23 +151,27 @@
             "RED_400": "#982929",
             "WHITE_500": "#fbfbfb",
             "GREEN_360": "#43b581",
-            "PLUM_23": "#212121",
-            "PLUM_20": "#111111",
-            "PLUM_18": "#111111",
-            "PLUM_17": "#141414",
+            "PLUM_23": "#00000033",
+            "PLUM_20": "#00000066",
+            "PLUM_18": "#00000066",
+            "PLUM_17": "#00000066",
             "PLUM_16": "#2780e6",
             "PLUM_13": "#2780e6",
             "PLUM_10": "#aeaeb4",
             "PLUM_3": "#2780e6",
             "PLUM_9": "#2780e6"
+        },
+        "background": {
+            "url": "https://i.imgur.com/uob9UDw.jpeg",
+            "blur": 0
         }
-    },
-    "plus": {
-        "version": "0",
-        "iconpack": "rosiecord-iconsax"
     },
     "background": {
         "url": "https://i.imgur.com/uob9UDw.jpeg",
         "blur": 0
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "rosiecord-iconsax"
     }
 }
