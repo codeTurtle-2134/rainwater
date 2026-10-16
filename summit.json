@@ -63,7 +63,7 @@
                 "#111111"
             ],
             "BACKGROUND_MOBILE_PRIMARY": [
-                "#141414"
+                "#00000066"
             ],
             "BACKGROUND_MOBILE_SECONDARY": [
                 "#141414"
@@ -123,7 +123,7 @@
                 "#aeaeb4"
             ],
             "CHAT_BACKGROUND": [
-                "#141414"
+                "#00000066"
             ],
             "CARD_PRIMARY_BG": [
                 "#212121"
@@ -162,12 +162,12 @@
             "PLUM_9": "#2780e6"
         }
     },
-    "background": {
-        "url": "https://i.imgur.com/uob9UDw.jpeg",
-        "blur": 0
-      },
     "plus": {
         "version": "0",
         "iconpack": "rosiecord-iconsax"
+    },
+    "background": {
+        "url": "https://i.imgur.com/uob9UDw.jpeg",
+        "blur": 0
     }
 }
