@@ -1,2 +1,2 @@
-# rainwater
-An editied version of the rain theme by LampDelivery.
+# summit
+Mountain discord theme
