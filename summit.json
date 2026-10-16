@@ -162,6 +162,10 @@
             "PLUM_9": "#2780e6"
         }
     },
+    "background": {
+        "url": "https://i.imgur.com/uob9UDw.jpeg",
+        "blur": 0
+      },
     "plus": {
         "version": "0",
         "iconpack": "rosiecord-iconsax"
